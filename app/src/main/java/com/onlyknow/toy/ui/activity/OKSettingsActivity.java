@@ -1,5 +1,6 @@
 package com.onlyknow.toy.ui.activity;
 
+import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
 import android.app.AlertDialog;
 import android.app.FragmentTransaction;
@@ -57,7 +58,7 @@ public class OKSettingsActivity extends OKBaseActivity {
 
         FragmentTransaction fragmentTransaction = getFragmentManager().beginTransaction();
 
-        fragmentTransaction.replace(R.id.ok_activity_setting_frame, new SettingPreferenceFragment()).commit();
+        fragmentTransaction.replace(R.id.ok_activity_setting_frame, new SettingPreferenceFragment(colorInTheme)).commit();
     }
 
     @Override
@@ -98,8 +99,18 @@ public class OKSettingsActivity extends OKBaseActivity {
      * This fragment shows data and sync preferences only. It is used when the
      * activity is showing a two-pane settings UI.
      */
+    @SuppressLint("ValidFragment")
     @TargetApi(Build.VERSION_CODES.HONEYCOMB)
     public static class SettingPreferenceFragment extends PreferenceFragment {
+        private int colorInTheme;
+
+        @SuppressLint("ValidFragment")
+        public SettingPreferenceFragment(int color) {
+            super();
+
+            colorInTheme = color;
+        }
+
         @Override
         public void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
@@ -155,6 +166,17 @@ public class OKSettingsActivity extends OKBaseActivity {
             findPreference("open_source").setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
                 @Override
                 public boolean onPreferenceClick(Preference preference) {
+                    Bundle bundle = new Bundle();
+
+                    bundle.putString(OKWebActivity.WEB_LINK, getString(R.string.action_open_github_url));
+                    bundle.putString(OKWebActivity.WEB_TITLE, getString(R.string.action_open_github_title));
+                    bundle.putInt(OKBaseActivity.ACT_COLOR_THEME, colorInTheme);
+
+                    Intent intent = new Intent(getActivity(), OKWebActivity.class);
+                    intent.putExtras(bundle);
+
+                    startActivity(intent);
+
                     return true;
                 }
             });
@@ -162,6 +184,17 @@ public class OKSettingsActivity extends OKBaseActivity {
             findPreference("legal").setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
                 @Override
                 public boolean onPreferenceClick(Preference preference) {
+                    Bundle bundle = new Bundle();
+
+                    bundle.putString(OKWebActivity.WEB_LINK, getString(R.string.action_open_legal_url));
+                    bundle.putString(OKWebActivity.WEB_TITLE, getString(R.string.action_open_legal_title));
+                    bundle.putInt(OKBaseActivity.ACT_COLOR_THEME, colorInTheme);
+
+                    Intent intent = new Intent(getActivity(), OKWebActivity.class);
+                    intent.putExtras(bundle);
+
+                    startActivity(intent);
+
                     return true;
                 }
             });
@@ -169,6 +202,17 @@ public class OKSettingsActivity extends OKBaseActivity {
             findPreference("about").setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
                 @Override
                 public boolean onPreferenceClick(Preference preference) {
+                    Bundle bundle = new Bundle();
+
+                    bundle.putString(OKWebActivity.WEB_LINK, getString(R.string.action_open_about_url));
+                    bundle.putString(OKWebActivity.WEB_TITLE, getString(R.string.action_open_about_title));
+                    bundle.putInt(OKBaseActivity.ACT_COLOR_THEME, colorInTheme);
+
+                    Intent intent = new Intent(getActivity(), OKWebActivity.class);
+                    intent.putExtras(bundle);
+
+                    startActivity(intent);
+
                     return true;
                 }
             });
@@ -176,6 +220,17 @@ public class OKSettingsActivity extends OKBaseActivity {
             findPreference("donation").setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
                 @Override
                 public boolean onPreferenceClick(Preference preference) {
+                    Bundle bundle = new Bundle();
+
+                    bundle.putString(OKWebActivity.WEB_LINK, getString(R.string.action_open_donation_url));
+                    bundle.putString(OKWebActivity.WEB_TITLE, getString(R.string.action_open_donation_title));
+                    bundle.putInt(OKBaseActivity.ACT_COLOR_THEME, colorInTheme);
+
+                    Intent intent = new Intent(getActivity(), OKWebActivity.class);
+                    intent.putExtras(bundle);
+
+                    startActivity(intent);
+
                     return true;
                 }
             });

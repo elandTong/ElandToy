@@ -133,8 +133,25 @@ public class OKGanKWelfareFragment extends OKBaseFragment implements OnRefreshLi
         mRefreshLayout.autoRefresh();
     }
 
+    public void stickTop() {
+        if (!isPause) {
+            mOKRecyclerView.smoothScrollToPosition(0);
+        }
+    }
+
+    private void saveNiceImage() {
+        // 随机保存图片模型到配置项
+        if (mGanKBeanList.size() > 0) {
+            OKGanKResultModel result = mGanKBeanList.get(new Random().nextInt(mGanKBeanList.size()));
+
+            if (result != null) {
+                initPreferences().edit().putString(WELFARE_MODEL, new Gson().toJson(result)).commit();
+            }
+        }
+    }
+
     @Override
-    public void onLoadMore(RefreshLayout refreshLayout) { // 加载更多
+    public void onLoadMore(@NonNull RefreshLayout refreshLayout) { // 加载更多
         if (OKNetUtil.isNet(getActivity())) {
             OKLoadGanKApi.Params pam = mOKLoadGanKApi.getLastParam().setType(OKLoadGanKApi.Params.TYPE_FL).setPageCount(++page);
 
@@ -163,7 +180,7 @@ public class OKGanKWelfareFragment extends OKBaseFragment implements OnRefreshLi
     }
 
     @Override
-    public void onRefresh(RefreshLayout refreshLayout) { // 刷新
+    public void onRefresh(@NonNull RefreshLayout refreshLayout) { // 刷新
         if (OKNetUtil.isNet(getActivity())) {
             OKLoadGanKApi.Params pam = mOKLoadGanKApi.getLastParam().setType(OKLoadGanKApi.Params.TYPE_FL).setPageCount(1);
 
@@ -190,23 +207,6 @@ public class OKGanKWelfareFragment extends OKBaseFragment implements OnRefreshLi
             mRefreshLayout.finishRefresh(1500);
 
             showSnackBar(mOKRecyclerView, getString(R.string.action_none_net_tip), null);
-        }
-    }
-
-    public void stickTop() {
-        if (!isPause) {
-            mOKRecyclerView.smoothScrollToPosition(0);
-        }
-    }
-
-    private void saveNiceImage() {
-        // 随机保存图片模型到配置项
-        if (mGanKBeanList.size() > 0) {
-            OKGanKResultModel result = mGanKBeanList.get(new Random().nextInt(mGanKBeanList.size()));
-
-            if (result != null) {
-                initPreferences().edit().putString(WELFARE_MODEL, new Gson().toJson(result)).commit();
-            }
         }
     }
 }

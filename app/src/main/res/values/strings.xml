@@ -65,31 +65,43 @@
     <string name="setting_act_toolbar">设置</string>
 
     <string name="setting_clear_cache">清理应用缓存</string>
+
     <string name="setting_clear_cache_tip">缓存使用大小: </string>
 
     <string name="setting_open_source">开源框架使用</string>
+
     <string name="setting_open_source_tip">此应用依赖性</string>
 
     <string name="setting_legal">法律条款</string>
+
     <string name="setting_legal_tip">此应用的法律信息</string>
 
     <string name="setting_about">关于ElandToy</string>
+
     <string name="setting_about_tip">此应用的开发人员</string>
 
     <string name="setting_donation">捐赠</string>
+
     <string name="setting_donation_tip">请作者喝杯茶</string>
 
     <string name="setting_alert_title">清空本地缓存</string>
+
     <string name="setting_alert_tip">是否清空本地数据库缓存 ?</string>
+
     <string name="setting_alert_sure">确定</string>
+
     <string name="setting_alert_cancel">取消</string>
+
     <string name="setting_clear_complete">缓存已清理完成!</string>
 
-
     <string name="fav_alert_title">清空收藏</string>
+
     <string name="fav_alert_tip">是否清空所有本地收藏 ?</string>
+
     <string name="fav_alert_sure">确定</string>
+
     <string name="fav_alert_cancel">取消</string>
+
     <string name="fav_clear_complete">收藏已清理完成!</string>
 
     <string name="permission_camera">照相机</string>
@@ -115,6 +127,7 @@
     <string name="filter_vcode">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
 
     <string name="downloaded"> %s %%</string>
+
     <string name="title_activity_oksettings">Settings</string>
 
     <string name="title_activity_search">Search</string>
@@ -176,6 +189,22 @@
     <string name="act_submit_err_net">提交失败! 原因: net error</string>
 
     <string name="content_no_data_reload">重试</string>
+
+    <string name="action_open_github_url">https://github.com/elandTong/ElandToy</string>
+
+    <string name="action_open_github_title">我的主页</string>
+
+    <string name="action_open_legal_url">https://github.com/elandTong/ElandToy</string>
+
+    <string name="action_open_legal_title">法律条款</string>
+
+    <string name="action_open_about_url">https://github.com/elandTong/ElandToy</string>
+
+    <string name="action_open_about_title">关于ElandToy</string>
+
+    <string name="action_open_donation_url">https://github.com/elandTong/ElandToy</string>
+
+    <string name="action_open_donation_title">捐赠</string>
 
     <!-- Strings related to Settings -->
 

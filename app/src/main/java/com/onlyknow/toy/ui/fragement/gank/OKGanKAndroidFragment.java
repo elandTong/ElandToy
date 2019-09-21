@@ -158,7 +158,7 @@ public class OKGanKAndroidFragment extends OKBaseFragment implements OnRefreshLi
         } else {
             mRefreshLayout.finishLoadMore(1500);
 
-            showSnackBar(mOKRecyclerView, "没有网络连接!", "");
+            showSnackBar(mOKRecyclerView, getString(R.string.action_none_net_tip), null);
         }
     }
 
@@ -187,7 +187,7 @@ public class OKGanKAndroidFragment extends OKBaseFragment implements OnRefreshLi
         } else {
             mRefreshLayout.finishRefresh(1500);
 
-            showSnackBar(mOKRecyclerView, "没有网络连接!", "");
+            showSnackBar(mOKRecyclerView, getString(R.string.action_none_net_tip), null);
         }
     }
 }

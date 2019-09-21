@@ -10,7 +10,23 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f66f477-d435-4a08-a0e9-29ebe1d5968f" name="Default" comment="" />
+    <list default="true" id="5f66f477-d435-4a08-a0e9-29ebe1d5968f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKSettingsActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKSettingsActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKAndroidFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKAndroidFragment.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKAppFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKAppFragment.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKFrontEndFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKFrontEndFragment.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKIosFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKIosFragment.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKRecommendFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKRecommendFragment.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKResFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKResFragment.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKVideoFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKVideoFragment.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKWelfareFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKWelfareFragment.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,44 +50,7 @@
     <favorites_list name="ElandToy" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="128" column="11" lean-forward="false" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="11" />
-              <folding>
-                <element signature="e#196#281#0" expanded="false" />
-                <element signature="e#2017#2530#0" expanded="false" />
-                <element signature="e#2319#2510#0" expanded="false" />
-                <element signature="e#2540#2785#0" expanded="false" />
-                <element signature="e#2795#3037#0" expanded="false" />
-                <element signature="e#3047#3293#0" expanded="false" />
-                <element signature="e#3303#3567#0" expanded="false" />
-                <element signature="e#3636#3892#0" expanded="false" />
-                <element signature="e#3902#4156#0" expanded="false" />
-                <element signature="e#4166#4414#0" expanded="false" />
-                <element signature="e#4424#4754#0" expanded="false" />
-                <element signature="e#4764#5031#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -111,6 +90,9 @@
     <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/onlyknow.keystore" />
     <option name="KEY_ALIAS" value="androiddebugkey" />
     <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -6504,7 +6486,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/utils/OKLogUtil.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/OKConstant.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/color.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/ok_content_collapsing_no_data.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/ok_content_collapsing.xml" />
@@ -6514,7 +6495,6 @@
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/component/OKBaseActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKGanKSubmitActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKSettingsActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKWebActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKQRCodeScanningActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/component/adapter/OKGanKViewAdapter.java" />
@@ -6523,17 +6503,19 @@
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKGanKFavActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/component/OKBaseFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKWelfareFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKVideoFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKResFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKRecommendFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKAppFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKAndroidFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKIosFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKFrontEndFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKGanKActivity.java" />
         <option value="$PROJECT_DIR$/MediaPicker/src/main/res/values/color.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKGanKSearchActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKAndroidFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKAppFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKFrontEndFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKIosFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKRecommendFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKResFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKVideoFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKWelfareFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKSettingsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
       </list>
     </option>
   </component>
@@ -6542,8 +6524,11 @@
     <option name="width" value="1440" />
     <option name="height" value="830" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -6556,33 +6541,7 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ElandToy" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ElandToy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
@@ -6793,8 +6752,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1440" height="830" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="830" extended-state="6" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -6803,9 +6761,8 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32856122" sideWeight="0.5168067" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5078684" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37959182" sideWeight="0.49033645" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -6813,7 +6770,6 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761088" sideWeight="0.48319328" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.507483" sideWeight="0.49213162" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.49713877" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24910523" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -6826,6 +6782,8 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.49713877" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -6842,7 +6800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="65" column="73" lean-forward="false" selection-start-line="65" selection-start-column="73" selection-end-line="65" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6858,7 +6815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6866,7 +6822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6874,7 +6829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6882,7 +6836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6890,7 +6843,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6898,37 +6850,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ok_transparency_shape.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ok_layout_selector.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ok_transparency_shape.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ok_layout_selector.xml" />
     <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/View.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="15188" column="34" lean-forward="false" selection-start-line="15188" selection-start-column="34" selection-end-line="15188" selection-end-column="34" />
-          <folding>
-            <element signature="e#609257#609258#0" expanded="false" />
-            <element signature="e#609293#609294#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -6936,9 +6866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
           <caret line="6786" column="50" lean-forward="false" selection-start-line="6786" selection-start-column="50" selection-end-line="6786" selection-end-column="50" />
-          <folding>
-            <element signature="e#292737#292738#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -6946,7 +6873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6954,7 +6880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9">
           <caret line="215" column="21" lean-forward="false" selection-start-line="215" selection-start-column="21" selection-end-line="215" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6962,7 +6887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="78" column="30" lean-forward="false" selection-start-line="78" selection-start-column="30" selection-end-line="78" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6970,68 +6894,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
           <caret line="214" column="0" lean-forward="true" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
-          <folding>
-            <element signature="method#setAdapter#0;class#OKRecyclerView#0" expanded="false" />
-            <element signature="class#OKBaseAdapter#0;class#OKRecyclerView#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/ok_content_collapsing_no_data.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/ok_content_collapsing_no_data.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/ok_content_recycle_view.xml">
+      <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/ok_content_recycle_view.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/ok_fragment_common.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/ok_content_no_data.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#1686#0" expanded="false" />
-            <element signature="e#213#1668#0" expanded="false" />
-            <element signature="e#447#733#0" expanded="false" />
-            <element signature="e#743#1117#0" expanded="false" />
-            <element signature="e#1127#1648#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKSettingsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-          <folding />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -7039,7 +6932,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="102" column="56" lean-forward="false" selection-start-line="102" selection-start-column="56" selection-end-line="102" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -7055,14 +6947,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-441">
           <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding>
-            <element signature="method#init#0;class#OKGanKSubmitActivity#0" expanded="false" />
-            <element signature="method#hideInput#0;class#OKGanKSubmitActivity#0" expanded="false" />
-            <element signature="method#clearInput#0;class#OKGanKSubmitActivity#0" expanded="false" />
-            <element signature="method#onPostCreate#0;class#OKGanKSubmitActivity#0" expanded="false" />
-            <element signature="method#onCreateOptionsMenu#0;class#OKGanKSubmitActivity#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#OKGanKSubmitActivity#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -7070,7 +6954,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -7086,7 +6969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="243" column="0" lean-forward="true" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -7094,17 +6976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="119" column="0" lean-forward="true" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
-          <folding>
-            <element signature="method#OKEmptyView#0;class#OKEmptyView#0" expanded="false" />
-            <element signature="method#OKEmptyView#2;class#OKEmptyView#0" expanded="false" />
-            <element signature="method#OKEmptyView#3;class#OKEmptyView#0" expanded="false" />
-            <element signature="method#init#0;class#OKEmptyView#0" expanded="false" />
-            <element signature="method#setRetryClickListener#0;class#OKEmptyView#0" expanded="false" />
-            <element signature="method#setRetryBackground#0;class#OKEmptyView#0" expanded="false" />
-            <element signature="method#setRetryText#0;class#OKEmptyView#0" expanded="false" />
-            <element signature="method#setTipText#0;class#OKEmptyView#0" expanded="false" />
-            <element signature="method#updateViewLayout#0;class#OKEmptyView#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -7112,20 +6983,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="e#770#771#0" expanded="false" />
-            <element signature="e#819#820#0" expanded="false" />
-            <element signature="e#862#863#0" expanded="false" />
-            <element signature="e#904#905#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2670">
-          <caret line="178" column="0" lean-forward="false" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -7133,7 +6990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1228">
           <caret line="1573" column="76" lean-forward="true" selection-start-line="1573" selection-start-column="76" selection-end-line="1573" selection-end-column="76" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -7141,7 +6997,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
           <caret line="405" column="48" lean-forward="true" selection-start-line="405" selection-start-column="48" selection-end-line="405" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -7160,135 +7015,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="311" column="23" lean-forward="true" selection-start-line="311" selection-start-column="23" selection-end-line="311" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKAndroidFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-365">
-          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding>
-            <element signature="docComment;class#OKGanKAndroidFragment#0" expanded="false" />
-            <element signature="method#onCreateView#0;class#OKGanKAndroidFragment#0" expanded="false" />
-            <element signature="method#onDestroyView#0;class#OKGanKAndroidFragment#0" expanded="false" />
-            <element signature="method#onPause#0;class#OKGanKAndroidFragment#0" expanded="false" />
-            <element signature="method#onResume#0;class#OKGanKAndroidFragment#0" expanded="false" />
-            <element signature="method#stickTop#0;class#OKGanKAndroidFragment#0" expanded="false" />
-            <element signature="method#onLoadMore#0;class#OKGanKAndroidFragment#0" expanded="false" />
-            <element signature="method#onRefresh#0;class#OKGanKAndroidFragment#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKAppFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
-          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding>
-            <element signature="method#onCreateView#0;class#OKGanKAppFragment#0" expanded="false" />
-            <element signature="method#onDestroyView#0;class#OKGanKAppFragment#0" expanded="false" />
-            <element signature="method#onPause#0;class#OKGanKAppFragment#0" expanded="false" />
-            <element signature="method#stickTop#0;class#OKGanKAppFragment#0" expanded="false" />
-            <element signature="method#onLoadMore#0;class#OKGanKAppFragment#0" expanded="false" />
-            <element signature="method#onRefresh#0;class#OKGanKAppFragment#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKFrontEndFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-485">
-          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding>
-            <element signature="docComment;class#OKGanKFrontEndFragment#0" expanded="false" />
-            <element signature="method#onCreateView#0;class#OKGanKFrontEndFragment#0" expanded="false" />
-            <element signature="method#onDestroyView#0;class#OKGanKFrontEndFragment#0" expanded="false" />
-            <element signature="method#onPause#0;class#OKGanKFrontEndFragment#0" expanded="false" />
-            <element signature="method#stickTop#0;class#OKGanKFrontEndFragment#0" expanded="false" />
-            <element signature="method#onLoadMore#0;class#OKGanKFrontEndFragment#0" expanded="false" />
-            <element signature="method#onRefresh#0;class#OKGanKFrontEndFragment#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKIosFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
-          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding>
-            <element signature="docComment;class#OKGanKIosFragment#0" expanded="false" />
-            <element signature="method#onCreateView#0;class#OKGanKIosFragment#0" expanded="false" />
-            <element signature="method#onDestroyView#0;class#OKGanKIosFragment#0" expanded="false" />
-            <element signature="method#onPause#0;class#OKGanKIosFragment#0" expanded="false" />
-            <element signature="method#stickTop#0;class#OKGanKIosFragment#0" expanded="false" />
-            <element signature="method#onLoadMore#0;class#OKGanKIosFragment#0" expanded="false" />
-            <element signature="method#onRefresh#0;class#OKGanKIosFragment#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKRecommendFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
-          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding>
-            <element signature="method#onCreateView#0;class#OKGanKRecommendFragment#0" expanded="false" />
-            <element signature="method#onDestroyView#0;class#OKGanKRecommendFragment#0" expanded="false" />
-            <element signature="method#onPause#0;class#OKGanKRecommendFragment#0" expanded="false" />
-            <element signature="method#stickTop#0;class#OKGanKRecommendFragment#0" expanded="false" />
-            <element signature="method#onLoadMore#0;class#OKGanKRecommendFragment#0" expanded="false" />
-            <element signature="method#onRefresh#0;class#OKGanKRecommendFragment#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKResFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
-          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding>
-            <element signature="docComment;class#OKGanKResFragment#0" expanded="false" />
-            <element signature="method#onCreateView#0;class#OKGanKResFragment#0" expanded="false" />
-            <element signature="method#onDestroyView#0;class#OKGanKResFragment#0" expanded="false" />
-            <element signature="method#onPause#0;class#OKGanKResFragment#0" expanded="false" />
-            <element signature="method#stickTop#0;class#OKGanKResFragment#0" expanded="false" />
-            <element signature="method#onLoadMore#0;class#OKGanKResFragment#0" expanded="false" />
-            <element signature="method#onRefresh#0;class#OKGanKResFragment#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKVideoFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-440">
-          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding>
-            <element signature="docComment;class#OKGanKVideoFragment#0" expanded="false" />
-            <element signature="method#onCreateView#0;class#OKGanKVideoFragment#0" expanded="false" />
-            <element signature="method#onDestroyView#0;class#OKGanKVideoFragment#0" expanded="false" />
-            <element signature="method#onPause#0;class#OKGanKVideoFragment#0" expanded="false" />
-            <element signature="method#stickTop#0;class#OKGanKVideoFragment#0" expanded="false" />
-            <element signature="method#onLoadMore#0;class#OKGanKVideoFragment#0" expanded="false" />
-            <element signature="method#onRefresh#0;class#OKGanKVideoFragment#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKWelfareFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="212" column="0" lean-forward="true" selection-start-line="212" selection-start-column="0" selection-end-line="212" selection-end-column="0" />
-          <folding>
-            <element signature="docComment;class#OKGanKWelfareFragment#0" expanded="false" />
-            <element signature="method#onCreateView#0;class#OKGanKWelfareFragment#0" expanded="false" />
-            <element signature="method#onDestroyView#0;class#OKGanKWelfareFragment#0" expanded="false" />
-            <element signature="method#onPause#0;class#OKGanKWelfareFragment#0" expanded="false" />
-            <element signature="method#onLoadMore#0;class#OKGanKWelfareFragment#0" expanded="false" />
-            <element signature="method#onRefresh#0;class#OKGanKWelfareFragment#0" expanded="false" />
-            <element signature="method#stickTop#0;class#OKGanKWelfareFragment#0" expanded="false" />
-            <element signature="method#saveNiceImage#0;class#OKGanKWelfareFragment#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -7305,48 +7031,6 @@
         <state relative-caret-position="595">
           <caret line="351" column="12" lean-forward="true" selection-start-line="351" selection-start-column="12" selection-end-line="351" selection-end-column="12" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKGanKFavActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="256" column="0" lean-forward="false" selection-start-line="256" selection-start-column="0" selection-end-line="256" selection-end-column="0" />
-          <folding>
-            <element signature="method#stickTop#0;class#OKGanKFavActivity#0" expanded="false" />
-            <element signature="method#init#0;class#OKGanKFavActivity#0" expanded="false" />
-            <element signature="method#onCreate#0;class#OKGanKFavActivity#0" expanded="false" />
-            <element signature="method#onPostCreate#0;class#OKGanKFavActivity#0" expanded="false" />
-            <element signature="method#onPause#0;class#OKGanKFavActivity#0" expanded="false" />
-            <element signature="method#onResume#0;class#OKGanKFavActivity#0" expanded="false" />
-            <element signature="method#onCreateOptionsMenu#0;class#OKGanKFavActivity#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#OKGanKFavActivity#0" expanded="false" />
-            <element signature="class#5985:6165" expanded="false" />
-            <element signature="method#onClick#0;class#5985:6165" expanded="false" />
-            <element signature="method#onLoadMore#0;class#OKGanKFavActivity#0" expanded="false" />
-            <element signature="method#onRefresh#0;class#OKGanKFavActivity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKGanKSearchActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="287" column="0" lean-forward="false" selection-start-line="287" selection-start-column="0" selection-end-line="287" selection-end-column="0" />
-          <folding>
-            <element signature="method#stickTop#0;class#OKGanKSearchActivity#0" expanded="false" />
-            <element signature="method#init#0;class#OKGanKSearchActivity#0" expanded="false" />
-            <element signature="method#search#0;class#OKGanKSearchActivity#0" expanded="false" />
-            <element signature="e#4069#4099#0" expanded="false" />
-            <element signature="method#onCreate#0;class#OKGanKSearchActivity#0" expanded="false" />
-            <element signature="method#onPostCreate#0;class#OKGanKSearchActivity#0" expanded="false" />
-            <element signature="method#onCreateOptionsMenu#0;class#OKGanKSearchActivity#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#OKGanKSearchActivity#0" expanded="false" />
-            <element signature="method#onPause#0;class#OKGanKSearchActivity#0" expanded="false" />
-            <element signature="method#onResume#0;class#OKGanKSearchActivity#0" expanded="false" />
-            <element signature="method#onLoadMore#0;class#OKGanKSearchActivity#0" expanded="false" />
-            <element signature="method#onRefresh#0;class#OKGanKSearchActivity#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -7406,33 +7090,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="149" column="0" lean-forward="false" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
-          <folding>
-            <element signature="docComment;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#OKBaseFragment#0;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#onResume#0;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#onPause#0;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#onDestroy#0;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#onTopResume#0;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#onTopPause#0;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#showSnackBar#0;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#GlideApi#0;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#GlideApi#1;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#GlideRoundApi#0;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#GlideRoundApi#1;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#GlideBlurApi#0;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#GlideBlurApi#1;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#startUserActivity#0;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#sendUserBroadcast#0;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#showProgressDialog#0;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#closeProgressDialog#0;class#OKBaseFragment#0" expanded="false" />
-            <element signature="method#initPreferences#0;class#OKBaseFragment#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
+        <state relative-caret-position="1170">
           <caret line="128" column="11" lean-forward="false" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="11" />
           <folding>
             <element signature="e#196#281#0" expanded="false" />
@@ -7450,14 +7116,222 @@
           </folding>
         </state>
       </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKAndroidFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="193" column="0" lean-forward="true" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#OKGanKAndroidFragment#0" expanded="false" />
+            <element signature="method#onCreateView#0;class#OKGanKAndroidFragment#0" expanded="false" />
+            <element signature="method#onDestroyView#0;class#OKGanKAndroidFragment#0" expanded="false" />
+            <element signature="method#onPause#0;class#OKGanKAndroidFragment#0" expanded="false" />
+            <element signature="method#onResume#0;class#OKGanKAndroidFragment#0" expanded="false" />
+            <element signature="method#stickTop#0;class#OKGanKAndroidFragment#0" expanded="false" />
+            <element signature="method#init#0;class#OKGanKAndroidFragment#0" expanded="false" />
+            <element signature="method#onLoadMore#0;class#OKGanKAndroidFragment#0" expanded="false" />
+            <element signature="method#onRefresh#0;class#OKGanKAndroidFragment#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKAppFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="method#onCreateView#0;class#OKGanKAppFragment#0" expanded="false" />
+            <element signature="method#onDestroyView#0;class#OKGanKAppFragment#0" expanded="false" />
+            <element signature="method#onPause#0;class#OKGanKAppFragment#0" expanded="false" />
+            <element signature="method#onResume#0;class#OKGanKAppFragment#0" expanded="false" />
+            <element signature="method#stickTop#0;class#OKGanKAppFragment#0" expanded="false" />
+            <element signature="method#init#0;class#OKGanKAppFragment#0" expanded="false" />
+            <element signature="method#onLoadMore#0;class#OKGanKAppFragment#0" expanded="false" />
+            <element signature="method#onRefresh#0;class#OKGanKAppFragment#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKFrontEndFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#OKGanKFrontEndFragment#0" expanded="false" />
+            <element signature="method#onCreateView#0;class#OKGanKFrontEndFragment#0" expanded="false" />
+            <element signature="method#onDestroyView#0;class#OKGanKFrontEndFragment#0" expanded="false" />
+            <element signature="method#onPause#0;class#OKGanKFrontEndFragment#0" expanded="false" />
+            <element signature="method#onResume#0;class#OKGanKFrontEndFragment#0" expanded="false" />
+            <element signature="method#stickTop#0;class#OKGanKFrontEndFragment#0" expanded="false" />
+            <element signature="method#init#0;class#OKGanKFrontEndFragment#0" expanded="false" />
+            <element signature="method#onLoadMore#0;class#OKGanKFrontEndFragment#0" expanded="false" />
+            <element signature="method#onRefresh#0;class#OKGanKFrontEndFragment#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKIosFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#OKGanKIosFragment#0" expanded="false" />
+            <element signature="method#onCreateView#0;class#OKGanKIosFragment#0" expanded="false" />
+            <element signature="method#onDestroyView#0;class#OKGanKIosFragment#0" expanded="false" />
+            <element signature="method#onPause#0;class#OKGanKIosFragment#0" expanded="false" />
+            <element signature="method#onResume#0;class#OKGanKIosFragment#0" expanded="false" />
+            <element signature="method#stickTop#0;class#OKGanKIosFragment#0" expanded="false" />
+            <element signature="method#init#0;class#OKGanKIosFragment#0" expanded="false" />
+            <element signature="method#onLoadMore#0;class#OKGanKIosFragment#0" expanded="false" />
+            <element signature="method#onRefresh#0;class#OKGanKIosFragment#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKRecommendFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="method#onCreateView#0;class#OKGanKRecommendFragment#0" expanded="false" />
+            <element signature="method#onDestroyView#0;class#OKGanKRecommendFragment#0" expanded="false" />
+            <element signature="method#onPause#0;class#OKGanKRecommendFragment#0" expanded="false" />
+            <element signature="method#onResume#0;class#OKGanKRecommendFragment#0" expanded="false" />
+            <element signature="method#stickTop#0;class#OKGanKRecommendFragment#0" expanded="false" />
+            <element signature="method#init#0;class#OKGanKRecommendFragment#0" expanded="false" />
+            <element signature="method#onLoadMore#0;class#OKGanKRecommendFragment#0" expanded="false" />
+            <element signature="method#onRefresh#0;class#OKGanKRecommendFragment#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKResFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#OKGanKResFragment#0" expanded="false" />
+            <element signature="method#onCreateView#0;class#OKGanKResFragment#0" expanded="false" />
+            <element signature="method#onDestroyView#0;class#OKGanKResFragment#0" expanded="false" />
+            <element signature="method#onPause#0;class#OKGanKResFragment#0" expanded="false" />
+            <element signature="method#onResume#0;class#OKGanKResFragment#0" expanded="false" />
+            <element signature="method#stickTop#0;class#OKGanKResFragment#0" expanded="false" />
+            <element signature="method#init#0;class#OKGanKResFragment#0" expanded="false" />
+            <element signature="method#onLoadMore#0;class#OKGanKResFragment#0" expanded="false" />
+            <element signature="method#onRefresh#0;class#OKGanKResFragment#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKVideoFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#OKGanKVideoFragment#0" expanded="false" />
+            <element signature="method#onCreateView#0;class#OKGanKVideoFragment#0" expanded="false" />
+            <element signature="method#onDestroyView#0;class#OKGanKVideoFragment#0" expanded="false" />
+            <element signature="method#onPause#0;class#OKGanKVideoFragment#0" expanded="false" />
+            <element signature="method#onResume#0;class#OKGanKVideoFragment#0" expanded="false" />
+            <element signature="method#stickTop#0;class#OKGanKVideoFragment#0" expanded="false" />
+            <element signature="method#init#0;class#OKGanKVideoFragment#0" expanded="false" />
+            <element signature="method#onLoadMore#0;class#OKGanKVideoFragment#0" expanded="false" />
+            <element signature="method#onRefresh#0;class#OKGanKVideoFragment#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/fragement/gank/OKGanKWelfareFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#OKGanKWelfareFragment#0" expanded="false" />
+            <element signature="method#onCreateView#0;class#OKGanKWelfareFragment#0" expanded="false" />
+            <element signature="method#onDestroyView#0;class#OKGanKWelfareFragment#0" expanded="false" />
+            <element signature="method#onPause#0;class#OKGanKWelfareFragment#0" expanded="false" />
+            <element signature="method#onResume#0;class#OKGanKWelfareFragment#0" expanded="false" />
+            <element signature="method#init#0;class#OKGanKWelfareFragment#0" expanded="false" />
+            <element signature="method#stickTop#0;class#OKGanKWelfareFragment#0" expanded="false" />
+            <element signature="method#saveNiceImage#0;class#OKGanKWelfareFragment#0" expanded="false" />
+            <element signature="method#onLoadMore#0;class#OKGanKWelfareFragment#0" expanded="false" />
+            <element signature="method#onRefresh#0;class#OKGanKWelfareFragment#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKGanKFavActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="256" column="0" lean-forward="true" selection-start-line="256" selection-start-column="0" selection-end-line="256" selection-end-column="0" />
+          <folding>
+            <element signature="method#stickTop#0;class#OKGanKFavActivity#0" expanded="false" />
+            <element signature="method#init#0;class#OKGanKFavActivity#0" expanded="false" />
+            <element signature="method#onCreate#0;class#OKGanKFavActivity#0" expanded="false" />
+            <element signature="method#onPostCreate#0;class#OKGanKFavActivity#0" expanded="false" />
+            <element signature="method#onPause#0;class#OKGanKFavActivity#0" expanded="false" />
+            <element signature="method#onResume#0;class#OKGanKFavActivity#0" expanded="false" />
+            <element signature="method#onCreateOptionsMenu#0;class#OKGanKFavActivity#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#OKGanKFavActivity#0" expanded="false" />
+            <element signature="class#5985:6165" expanded="false" />
+            <element signature="method#onClick#0;class#5985:6165" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKGanKSearchActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="287" column="0" lean-forward="true" selection-start-line="287" selection-start-column="0" selection-end-line="287" selection-end-column="0" />
+          <folding>
+            <element signature="method#stickTop#0;class#OKGanKSearchActivity#0" expanded="false" />
+            <element signature="method#init#0;class#OKGanKSearchActivity#0" expanded="false" />
+            <element signature="method#search#0;class#OKGanKSearchActivity#0" expanded="false" />
+            <element signature="e#4069#4099#0" expanded="false" />
+            <element signature="method#onCreate#0;class#OKGanKSearchActivity#0" expanded="false" />
+            <element signature="method#onPostCreate#0;class#OKGanKSearchActivity#0" expanded="false" />
+            <element signature="method#onCreateOptionsMenu#0;class#OKGanKSearchActivity#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#OKGanKSearchActivity#0" expanded="false" />
+            <element signature="method#onPause#0;class#OKGanKSearchActivity#0" expanded="false" />
+            <element signature="method#onResume#0;class#OKGanKSearchActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/onlyknow/toy/ui/activity/OKSettingsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="249" column="0" lean-forward="true" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#OKSettingsActivity#0" expanded="false" />
+            <element signature="method#onCreate#0;class#OKSettingsActivity#0" expanded="false" />
+            <element signature="method#onPostCreate#0;class#OKSettingsActivity#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#OKSettingsActivity#0" expanded="false" />
+            <element signature="docComment;class#SettingPreferenceFragment#0;class#OKSettingsActivity#0" expanded="false" />
+            <element signature="e#3067#3097#0" expanded="false" />
+            <element signature="class#SettingPreferenceFragment#0;class#OKSettingsActivity#0" expanded="false" />
+            <element signature="method#SettingPreferenceFragment#0;class#SettingPreferenceFragment#0;class#OKSettingsActivity#0" expanded="false" />
+            <element signature="method#onCreate#0;class#SettingPreferenceFragment#0;class#OKSettingsActivity#0" expanded="false" />
+            <element signature="method#onViewCreated#0;class#SettingPreferenceFragment#0;class#OKSettingsActivity#0" expanded="false" />
+            <element signature="class#5358:5554" expanded="false" />
+            <element signature="method#onClick#0;class#5358:5554" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#SettingPreferenceFragment#0;class#OKSettingsActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="280" column="0" lean-forward="false" selection-start-line="280" selection-start-column="0" selection-end-line="280" selection-end-column="0" />
           <folding />
         </state>
       </provider>

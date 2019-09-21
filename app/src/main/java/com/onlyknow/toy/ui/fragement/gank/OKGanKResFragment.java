@@ -132,7 +132,7 @@ public class OKGanKResFragment extends OKBaseFragment implements OnRefreshListen
     }
 
     @Override
-    public void onLoadMore(RefreshLayout refreshLayout) {
+    public void onLoadMore(@NonNull RefreshLayout refreshLayout) {
         if (OKNetUtil.isNet(getActivity())) {
             OKLoadGanKApi.Params pam = mOKLoadGanKApi.getLastParam().setType(OKLoadGanKApi.Params.TYPE_RS).setPageCount(++page);
 
@@ -154,12 +154,12 @@ public class OKGanKResFragment extends OKBaseFragment implements OnRefreshListen
         } else {
             mRefreshLayout.finishLoadMore(1500);
 
-            showSnackBar(mOKRecyclerView, "没有网络连接!", "");
+            showSnackBar(mOKRecyclerView, getString(R.string.action_none_net_tip), null);
         }
     }
 
     @Override
-    public void onRefresh(RefreshLayout refreshLayout) {
+    public void onRefresh(@NonNull RefreshLayout refreshLayout) {
         if (OKNetUtil.isNet(getActivity())) {
             OKLoadGanKApi.Params pam = mOKLoadGanKApi.getLastParam().setType(OKLoadGanKApi.Params.TYPE_RS).setPageCount(1);
 
@@ -183,7 +183,7 @@ public class OKGanKResFragment extends OKBaseFragment implements OnRefreshListen
         } else {
             mRefreshLayout.finishRefresh(1500);
 
-            showSnackBar(mOKRecyclerView, "没有网络连接!", "");
+            showSnackBar(mOKRecyclerView, getString(R.string.action_none_net_tip), null);
         }
     }
 }
