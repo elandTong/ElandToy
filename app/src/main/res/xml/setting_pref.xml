@@ -1,0 +1,29 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- NOTE: Hide buttons to simplify the UI. Users can touch outside the dialog to
+         dismiss it. -->
+    <!-- NOTE: ListPreference's summary should be set to its value by the activity code. -->
+    <Preference
+        android:key="clear_cache"
+        android:summary="@string/setting_clear_cache_tip"
+        android:title="@string/setting_clear_cache" />
+
+    <Preference
+        android:key="open_source"
+        android:summary="@string/setting_open_source_tip"
+        android:title="@string/setting_open_source" />
+
+    <Preference
+        android:key="legal"
+        android:summary="@string/setting_legal_tip"
+        android:title="@string/setting_legal" />
+
+    <Preference
+        android:key="about"
+        android:summary="@string/setting_about_tip"
+        android:title="@string/setting_about" />
+
+    <Preference
+        android:key="donation"
+        android:summary="@string/setting_donation_tip"
+        android:title="@string/setting_donation" />
+</PreferenceScreen>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bumptech.glide:glide-4.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/97274916a2ed2f4d220c0ffe755964739500a60e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/97274916a2ed2f4d220c0ffe755964739500a60e/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.5.0/118d48d702114278de5af81fb21844cf91666d3d/glide-4.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

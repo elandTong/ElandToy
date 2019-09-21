@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tongxingwen/Documents/ElandToy/HiPermission/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6d6f5276bc16fef54de972c088dbcb6e1d584fef">
+        <dex dex="/Users/tongxingwen/Documents/ElandToy/app/build/intermediates/transforms/dex/armv7/debug/folders/1000/4/classes_732d5516de1aaae14d8da03e66ccd3eb9b0d1390/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tongxingwen/Documents/ElandToy/app/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/tongxingwen/Documents/ElandToy/app/build/intermediates/transforms/dex/armv7/debug/folders/1000/2/gson-2.3.1_353beadf1fa30ef888760c3865e6424485a357b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tongxingwen/Documents/ElandToy/app/libs/ormlite-android-5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="01f065373aeef355dd9e2fd9854efd5ed4d54f6d">
+        <dex dex="/Users/tongxingwen/Documents/ElandToy/app/build/intermediates/transforms/dex/armv7/debug/folders/1000/2/ormlite-android-5.0_759efb7d4ac92a50c16e4e6c97ebd9da5952f872/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tongxingwen/Documents/ElandToy/MediaPicker/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a79d091899d114ed18ba8cda4098626d4ee2c76f">
+        <dex dex="/Users/tongxingwen/Documents/ElandToy/app/build/intermediates/transforms/dex/armv7/debug/folders/1000/4/classes_3067cb28ca46419bb239f0b59849d44dad572401/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tongxingwen/Documents/ElandToy/BottomNavigationBar/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3a64314a6b18318da8b4d40094d3720ab00fdd1c">
+        <dex dex="/Users/tongxingwen/Documents/ElandToy/app/build/intermediates/transforms/dex/armv7/debug/folders/1000/4/classes_84e64e23a0bb3ce914bf6aba409403cd1d48a302/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tongxingwen/Documents/ElandToy/app/libs/ormlite-core-5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="03382b8260646dd334a1b9c1b3d412fcb73d8b21">
+        <dex dex="/Users/tongxingwen/Documents/ElandToy/app/build/intermediates/transforms/dex/armv7/debug/folders/1000/2/ormlite-core-5.0_da1a202a6411f796fb7a5c96dba9726dbafb9b7e/classes.dex" />
+    </item>
+
+</items>

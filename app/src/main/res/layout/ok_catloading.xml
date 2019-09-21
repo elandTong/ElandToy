@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="170dp"
+    android:layout_height="200dp"
+    android:background="@drawable/ok_background">
+
+    <com.onlyknow.toy.component.view.OKSEImageView
+        android:id="@+id/ok_catloading_close"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="5dp"
+        android:background="@drawable/ok_error" />
+
+    <ImageView
+        android:id="@+id/mouse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/ok_spin_mouse" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <ImageView
+            android:id="@+id/cat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ok_spin_cat" />
+
+        <ImageView
+            android:id="@+id/eye_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3.5dp"
+            android:layout_marginTop="12.5dp"
+            android:src="@drawable/ok_spin_eyes" />
+
+        <com.onlyknow.toy.component.view.OKEyelidView
+            android:id="@+id/eyelid_left"
+            android:layout_width="24dp"
+            android:layout_height="15dp"
+            android:layout_marginLeft="3.5dp"
+            android:layout_marginTop="12.5dp"
+            android:src="@drawable/ok_spin_eyes" />
+
+        <ImageView
+            android:id="@+id/eye_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="28dp"
+            android:layout_marginTop="12.5dp"
+            android:src="@drawable/ok_spin_eyes" />
+
+        <com.onlyknow.toy.component.view.OKEyelidView
+            android:id="@+id/eyelid_right"
+            android:layout_width="24dp"
+            android:layout_height="15dp"
+            android:layout_marginLeft="28dp"
+            android:layout_marginTop="12.5dp"
+            android:src="@drawable/ok_spin_eyes" />
+    </RelativeLayout>
+
+    <com.onlyknow.toy.component.view.OKGraduallyTextView
+        android:id="@+id/graduallyTextView"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="7dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="3dp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="L O A D I N G ..."
+        android:textColor="@color/md_white_1000"
+        android:textSize="15sp" />
+</RelativeLayout>

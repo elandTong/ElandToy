@@ -1,0 +1,163 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/ok_activity_submit_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:elevation="5dp"
+        app:layout_collapseMode="pin"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        tools:ignore="UnusedAttribute" />
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- opt zone -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="15dp">
+
+            <!-- link -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/ok_act_submit_link"
+                    tools:ignore="ContentDescription,RtlHardcoded" />
+
+                <android.support.design.widget.TextInputLayout
+                    android:id="@+id/ok_activity_submit_link_input"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1">
+
+                    <android.support.v7.widget.AppCompatEditText
+                        android:id="@+id/ok_activity_submit_link"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="@string/act_submit_link" />
+                </android.support.design.widget.TextInputLayout>
+            </LinearLayout>
+
+            <!-- desc -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/ok_act_submit_desc"
+                    tools:ignore="ContentDescription,RtlHardcoded" />
+
+                <android.support.design.widget.TextInputLayout
+                    android:id="@+id/ok_activity_submit_desc_input"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1">
+
+                    <android.support.v7.widget.AppCompatEditText
+                        android:id="@+id/ok_activity_submit_desc"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="@string/act_submit_desc" />
+                </android.support.design.widget.TextInputLayout>
+            </LinearLayout>
+
+            <!-- nickname -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/ok_act_submit_nick"
+                    tools:ignore="ContentDescription,RtlHardcoded" />
+
+                <android.support.design.widget.TextInputLayout
+                    android:id="@+id/ok_activity_submit_nick_input"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1">
+
+                    <android.support.v7.widget.AppCompatEditText
+                        android:id="@+id/ok_activity_submit_nick"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="@string/act_submit_nick" />
+                </android.support.design.widget.TextInputLayout>
+            </LinearLayout>
+
+            <!-- category -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/ok_act_submit_cat"
+                    tools:ignore="ContentDescription,RtlHardcoded" />
+
+                <android.support.v7.widget.AppCompatSpinner
+                    android:id="@+id/ok_activity_submit_spinner"
+                    android:layout_width="0dp"
+                    android:layout_height="60dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:entries="@array/spin_gank_submit_category"
+                    android:spinnerMode="dropdown" />
+            </LinearLayout>
+
+            <!-- submit button -->
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/ok_activity_submit_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:backgroundTint="@color/colorPrimary"
+                android:text="@string/act_submit_btn"
+                android:textColor="@color/md_white_1000"
+                tools:ignore="UnusedAttribute" />
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+</LinearLayout>

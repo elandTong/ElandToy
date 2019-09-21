@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:id="@+id/ok_no_data_image"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:background="@drawable/ok_nodata"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/ok_no_data_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="3dp"
+            android:text="@string/tip_nodata"
+            android:textColor="@color/md_grey_600"
+            android:textSize="15sp" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/ok_no_data_retry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:backgroundTint="@color/colorPrimary"
+            android:padding="8dp"
+            android:text="@string/content_no_data_reload"
+            android:textColor="@color/md_white_1000"
+            tools:ignore="UnusedAttribute" />
+    </LinearLayout>
+</RelativeLayout>

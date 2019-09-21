@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/gank_group_code"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/ok_menu_drawer_Android"
+            android:icon="@drawable/ok_menu_android"
+            android:title="@string/gank_menu_android" />
+
+        <item
+            android:id="@+id/ok_menu_drawer_IOS"
+            android:icon="@drawable/ok_menu_ios"
+            android:title="@string/gank_menu_ios" />
+
+        <item
+            android:id="@+id/ok_menu_drawer_QianDuan"
+            android:icon="@drawable/ok_menu_h5"
+            android:title="@string/gank_menu_h5" />
+
+        <item
+            android:id="@+id/ok_menu_drawer_app"
+            android:icon="@drawable/ok_menu_app"
+            android:title="@string/gank_menu_app" />
+    </group>
+
+    <group
+        android:id="@+id/gank_group_live"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/ok_menu_drawer_FuLi"
+            android:icon="@drawable/ok_menu_welfare"
+            android:title="@string/gank_menu_welfare" />
+
+        <item
+            android:id="@+id/ok_menu_drawer_Video"
+            android:icon="@drawable/ok_menu_video"
+            android:title="@string/gank_menu_video" />
+
+        <item
+            android:id="@+id/ok_menu_drawer_ExtensionRes"
+            android:icon="@drawable/ok_menu_res"
+            android:title="@string/gank_menu_res" />
+
+        <item
+            android:id="@+id/ok_menu_drawer_recommend"
+            android:icon="@drawable/ok_menu_recommend"
+            android:title="@string/gank_menu_recommend" />
+    </group>
+
+    <group
+        android:id="@+id/gank_group_other"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/ok_menu_drawer_fav"
+            android:icon="@drawable/ok_menu_fav"
+            android:title="@string/gank_menu_fav" />
+
+        <item
+            android:id="@+id/ok_menu_drawer_qrcode"
+            android:icon="@drawable/ok_menu_qrcode"
+            android:title="@string/gank_menu_qrcode" />
+
+        <item
+            android:id="@+id/ok_menu_drawer_submit"
+            android:icon="@drawable/ok_menu_submit"
+            android:title="@string/gank_menu_submit" />
+    </group>
+
+    <group
+        android:id="@+id/gank_group_settings"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/ok_menu_drawer_Setting"
+            android:icon="@drawable/ok_menu_setting"
+            android:title="@string/gank_menu_setting" />
+    </group>
+</menu>
