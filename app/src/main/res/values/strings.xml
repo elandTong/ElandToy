@@ -6,23 +6,23 @@
 
     <string name="hello_world">Hello world!</string>
 
-    <string name="tip_nodata">别急!小二可能在忙!</string>
+    <string name="tip_nodata">Sorry, no data!</string>
 
-    <string name="tip_product_author">©2019 Eland.Tong for 星的方向作品</string>
+    <string name="tip_product_author">©2019 Eland.Tong for Direction of the star of works</string>
 
-    <string name="gank_welfare">福利</string>
+    <string name="gank_welfare">Welfare</string>
 
-    <string name="gank_menu_welfare">福 利</string>
+    <string name="gank_menu_welfare">Welfare</string>
 
-    <string name="gank_video">视频</string>
+    <string name="gank_video">Video</string>
 
-    <string name="gank_menu_video">休息视频</string>
+    <string name="gank_menu_video">Break video</string>
 
-    <string name="gank_res">资源</string>
+    <string name="gank_res">Resource</string>
 
-    <string name="gank_menu_res">扩展资源</string>
+    <string name="gank_menu_res">Expand resources</string>
 
-    <string name="gank_android">安卓</string>
+    <string name="gank_android">Android</string>
 
     <string name="gank_menu_android">Android</string>
 
@@ -30,99 +30,99 @@
 
     <string name="gank_menu_ios">IOS</string>
 
-    <string name="gank_h5">前端</string>
+    <string name="gank_h5">HTML5</string>
 
-    <string name="gank_menu_h5">前 端</string>
+    <string name="gank_menu_h5">HTML5</string>
 
     <string name="gank_app">APP</string>
 
     <string name="gank_menu_app">APP</string>
 
-    <string name="gank_recommend">瞎推荐</string>
+    <string name="gank_recommend">Blind Recommended</string>
 
-    <string name="gank_menu_recommend">瞎推荐</string>
+    <string name="gank_menu_recommend">Blind Recommended</string>
 
-    <string name="gank_menu_setting">设 置</string>
+    <string name="gank_menu_setting">Setting</string>
 
-    <string name="gank_menu_fav">收藏</string>
+    <string name="gank_menu_fav">Collection</string>
 
-    <string name="gank_menu_qrcode">扫一扫</string>
+    <string name="gank_menu_qrcode">Scan</string>
 
-    <string name="gank_menu_submit">提交干货</string>
+    <string name="gank_menu_submit">Submit</string>
 
-    <string name="gank_search">搜索</string>
+    <string name="gank_search">Search</string>
 
-    <string name="gank_search_edit">search</string>
+    <string name="gank_search_edit">Search</string>
 
-    <string name="gank_about">关于干货营</string>
+    <string name="gank_about">About gank.io</string>
 
-    <string name="gank_toolbar">干货营喔!</string>
+    <string name="gank_toolbar">Gank.io Oh!</string>
 
-    <string name="web_act_copy">复制链接</string>
+    <string name="web_act_copy">Copy link</string>
 
-    <string name="web_act_open">浏览器打开</string>
+    <string name="web_act_open">Browser open</string>
 
-    <string name="setting_act_toolbar">设置</string>
+    <string name="setting_act_toolbar">Setting</string>
 
-    <string name="setting_clear_cache">清理应用缓存</string>
+    <string name="setting_clear_cache">Clear cache</string>
 
-    <string name="setting_clear_cache_tip">缓存使用大小: </string>
+    <string name="setting_clear_cache_tip">Cache use size: </string>
 
-    <string name="setting_open_source">开源框架使用</string>
+    <string name="setting_open_source">Open source framework use</string>
 
-    <string name="setting_open_source_tip">此应用依赖性</string>
+    <string name="setting_open_source_tip">Application dependency</string>
 
-    <string name="setting_legal">法律条款</string>
+    <string name="setting_legal">Legal terms</string>
 
-    <string name="setting_legal_tip">此应用的法律信息</string>
+    <string name="setting_legal_tip">Applied legal information</string>
 
-    <string name="setting_about">关于ElandToy</string>
+    <string name="setting_about">About ElandToy</string>
 
-    <string name="setting_about_tip">此应用的开发人员</string>
+    <string name="setting_about_tip">Application developer</string>
 
-    <string name="setting_donation">捐赠</string>
+    <string name="setting_donation">Donation</string>
 
-    <string name="setting_donation_tip">请作者喝杯茶</string>
+    <string name="setting_donation_tip">Please author a cup of tea</string>
 
-    <string name="setting_alert_title">清空本地缓存</string>
+    <string name="setting_alert_title">Clear local cache</string>
 
-    <string name="setting_alert_tip">是否清空本地数据库缓存 ?</string>
+    <string name="setting_alert_tip">Whether to clear the local database cache ?</string>
 
-    <string name="setting_alert_sure">确定</string>
+    <string name="setting_alert_sure">Confirm</string>
 
-    <string name="setting_alert_cancel">取消</string>
+    <string name="setting_alert_cancel">Cancel</string>
 
-    <string name="setting_clear_complete">缓存已清理完成!</string>
+    <string name="setting_clear_complete">Cache has been cleaned up!</string>
 
-    <string name="fav_alert_title">清空收藏</string>
+    <string name="fav_alert_title">Empty collection</string>
 
-    <string name="fav_alert_tip">是否清空所有本地收藏 ?</string>
+    <string name="fav_alert_tip">Whether to clear all local collections ?</string>
 
-    <string name="fav_alert_sure">确定</string>
+    <string name="fav_alert_sure">Confirm</string>
 
-    <string name="fav_alert_cancel">取消</string>
+    <string name="fav_alert_cancel">Cancel</string>
 
-    <string name="fav_clear_complete">收藏已清理完成!</string>
+    <string name="fav_clear_complete">Collection has been cleaned up!</string>
 
-    <string name="permission_camera">照相机</string>
+    <string name="permission_camera">Camera</string>
 
-    <string name="permission_save_storage">存储数据</string>
+    <string name="permission_save_storage">Storing data</string>
 
-    <string name="permission_read_storage">读取数据</string>
+    <string name="permission_read_storage">Read data</string>
 
-    <string name="permission_phone_state">设备状态</string>
+    <string name="permission_phone_state">Equipment status</string>
 
-    <string name="permission_gps_location">GPS定位</string>
+    <string name="permission_gps_location">GPS positioning</string>
 
-    <string name="permission_net_location">网络定位</string>
+    <string name="permission_net_location">Network positioning</string>
 
-    <string name="search_none_content_tip">请输入要搜索的内容!</string>
+    <string name="search_none_content_tip">Please enter what you want to search for!</string>
 
-    <string name="action_none_net_tip">没有网络连接!</string>
+    <string name="action_none_net_tip">No internet connection!</string>
 
-    <string name="action_nodata_tip">没有匹配的数据!</string>
+    <string name="action_nodata_tip">No matching data!</string>
 
-    <string name="act_fav_toolbar">收藏</string>
+    <string name="act_fav_toolbar">Collection</string>
 
     <string name="filter_vcode">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
 
@@ -132,79 +132,81 @@
 
     <string name="title_activity_search">Search</string>
 
-    <string name="title_activity_fav">fav</string>
+    <string name="title_activity_fav">Collection</string>
 
-    <string name="title_activity_qrcode">扫一扫</string>
+    <string name="title_activity_qrcode">Scan</string>
 
-    <string name="act_fav_menu_clear">全部清除</string>
+    <string name="act_fav_menu_clear">Clear All</string>
 
-    <string name="gank_item_open_image">查看图片</string>
+    <string name="gank_item_open_image">View image</string>
 
-    <string name="act_submit_cat">发表分类</string>
+    <string name="act_submit_cat">Publish classification</string>
 
-    <string name="act_submit_btn">提交审核</string>
+    <string name="act_submit_btn">Submit review</string>
 
-    <string name="act_submit_link">链接地址</string>
+    <string name="act_submit_link">link address</string>
 
-    <string name="act_submit_desc">内容描述</string>
+    <string name="act_submit_desc">Description</string>
 
-    <string name="act_submit_nick">作者昵称</string>
+    <string name="act_submit_nick">Author nickname</string>
 
-    <string name="act_submit_link_tip">干货网页或图片的链接地址</string>
+    <string name="act_submit_link_tip">Link address of dry gank goods page or image</string>
 
-    <string name="act_submit_desc_tip">干货内容的简要概述</string>
+    <string name="act_submit_desc_tip">A brief overview of dry gank goods content</string>
 
-    <string name="act_submit_nick_tip">干货作者的昵称或NetID(随意)</string>
+    <string name="act_submit_nick_tip">Dry gank goods author nickname or NetID (optional)</string>
 
-    <string name="act_submit_toolbar">发布干货</string>
+    <string name="act_submit_toolbar">Publish dry gank goods</string>
 
-    <string name="act_submit_category">干货分类</string>
+    <string name="act_submit_category">Dry gank goods classification</string>
 
-    <string name="act_submit_menu_clear">清空内容</string>
+    <string name="act_submit_menu_clear">Empty content</string>
 
-    <string name="act_submit_err_tip_pos">没有该分类!</string>
+    <string name="act_submit_err_tip_pos">No such classification!</string>
 
-    <string name="act_submit_err_tip_link_null">Url不能为空!</string>
+    <string name="act_submit_err_tip_link_null">Url can\'t be empty!</string>
 
-    <string name="act_submit_err_tip_desc_null">描述不能为空!</string>
+    <string name="act_submit_err_tip_desc_null">Description cannot be empty!</string>
 
-    <string name="act_submit_err_tip_who_null">昵称不能为空!</string>
+    <string name="act_submit_err_tip_who_null">Username can not be blank!</string>
 
-    <string name="act_submit_err_tip_link">您输入的Url不正确!</string>
+    <string name="act_submit_err_tip_link">The Url you entered is incorrect!</string>
 
-    <string name="act_submit_loading">正在提交中...</string>
+    <string name="act_submit_loading">Submitting...</string>
 
-    <string name="act_qrcode_result_title">识别结果</string>
+    <string name="act_qrcode_result_title">Recognition result</string>
 
-    <string name="act_web_download_tip">正在后台下载文件!</string>
+    <string name="act_web_download_tip">Downloading files in the background!</string>
 
-    <string name="act_web_download_end_tip">后台下载完成!</string>
+    <string name="act_web_download_end_tip">Background download completed!</string>
 
-    <string name="act_qrcode_result_null_tip">没有识别到信息!</string>
+    <string name="act_qrcode_result_null_tip">No information recognized!</string>
 
-    <string name="act_submit_succ">提交成功!</string>
+    <string name="act_submit_succ">Submitted successfully!</string>
 
-    <string name="act_submit_err">提交失败! 原因: </string>
+    <string name="act_submit_err">Submit failed! Reason: </string>
 
-    <string name="act_submit_err_net">提交失败! 原因: net error</string>
+    <string name="act_submit_err_net">Submit failed! Reason: net error</string>
 
-    <string name="content_no_data_reload">重试</string>
+    <string name="content_no_data_reload">Retry</string>
 
     <string name="action_open_github_url">https://github.com/elandTong/ElandToy</string>
 
-    <string name="action_open_github_title">我的主页</string>
+    <string name="action_open_github_title">my home page</string>
 
     <string name="action_open_legal_url">https://github.com/elandTong/ElandToy</string>
 
-    <string name="action_open_legal_title">法律条款</string>
+    <string name="action_open_legal_title">Legal terms</string>
 
     <string name="action_open_about_url">https://github.com/elandTong/ElandToy</string>
 
-    <string name="action_open_about_title">关于ElandToy</string>
+    <string name="action_open_about_title">About ElandToy</string>
 
     <string name="action_open_donation_url">https://github.com/elandTong/ElandToy</string>
 
-    <string name="action_open_donation_title">捐赠</string>
+    <string name="action_open_donation_title">Donation</string>
+
+    <string name="act_qrcode_scan_text">Place the QR code image in the identification box</string>
 
     <!-- Strings related to Settings -->
 
